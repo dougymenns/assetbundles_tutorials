@@ -1,0 +1,1 @@
+databricks bundle deploy --target prod --var="catalog_name=assetbundles_prod"
