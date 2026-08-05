@@ -44,3 +44,5 @@ targets:
     permissions:
       - group_name: admins
         level: CAN_MANAGE
+      - service_principal_name: doug_service_principal
+        level: CAN_MANAGE
